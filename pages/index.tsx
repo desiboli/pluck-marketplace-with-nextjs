@@ -24,7 +24,9 @@ const Home: NextPage = () => {
           <Image src={logo} height={100} width={100} />
         </div>
 
-        <h1 className="mb-10 text-6xl font-bold uppercase">The pluck market</h1>
+        <h1 className="mb-10 text-center text-6xl font-bold uppercase">
+          The pluck market
+        </h1>
 
         <MarketplaceStore />
 
