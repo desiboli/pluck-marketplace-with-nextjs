@@ -19,7 +19,7 @@ const Home: NextPage = () => {
 
       <Header />
 
-      <main className="mt-10 flex w-full flex-1 flex-col items-center px-6">
+      <main className="mt-10 mb-16 flex w-full flex-1 flex-col items-center px-6">
         <div className="mb-6 block">
           <Image src={logo} height={100} width={100} />
         </div>
